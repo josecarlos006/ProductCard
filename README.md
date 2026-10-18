@@ -55,3 +55,36 @@ Praticar os fundamentos de **HTML e CSS**, principalmente:
 
 ```bash
 git clone https://github.com/josecarlos006/ProductCard.git
+```
+
+2. Entre na pasta:
+
+```bash
+cd ProductCard
+```
+
+3. Abra o arquivo `index.html` no navegador.
+
+## 📂 Estrutura
+
+```text
+ProductCard/
+├── index.html
+├── style.css
+├── tenis.webp
+└── README.md
+```
+
+## 📚 Aprendizado
+
+Neste projeto, pratiquei principalmente a criação de componentes visuais utilizando HTML e CSS, trabalhando com posicionamento, Box Model, Flexbox, imagens, efeitos visuais e responsividade.
+
+## 💻 Código
+
+**[Ver código no GitHub](https://github.com/josecarlos006/ProductCard)**
+
+## 👨‍💻 Autor
+
+**José Carlos**
+
+Desenvolvedor Web
